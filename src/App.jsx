@@ -356,7 +356,7 @@ function App() {
           <div className="about__grid">
             <figure className="portrait reveal">
               <div className="portrait__top"><span>OSMAN GONI</span><span>DHAKA / BD</span></div>
-              <img className="portrait__img" src="/assets/osman-goni.jpg" width="960" height="900" loading="lazy" decoding="async" alt="Portrait of Osman Goni, wearing glasses and a cream embroidered panjabi, standing in front of a tree" />
+              <img className="portrait__img" src="/assets/osman-goni.jpg" width="960" height="1280" loading="lazy" decoding="async" alt="Portrait of Osman Goni, wearing glasses and a cream embroidered panjabi, standing in front of a tree" />
               <figcaption className="portrait__bottom"><span>SOFTWARE ENGINEER, AI / ML</span></figcaption>
             </figure>
             <div className="about__content">

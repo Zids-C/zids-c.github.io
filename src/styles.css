@@ -182,7 +182,7 @@ a:hover .arrow { transform: translate(3px, -3px); }
 .portrait__top, .portrait__bottom { display: flex; justify-content: space-between; gap: .8rem; font: .53rem/1.5 var(--mono); letter-spacing: .06em; }
 .portrait__top { padding: .15rem .15rem .8rem; }
 .portrait__bottom { padding: .8rem .15rem .05rem; }
-.portrait__img { width: 100%; aspect-ratio: 5 / 6; object-fit: cover; object-position: 49% 30%; background: var(--paper-deep); }
+.portrait__img { width: 100%; height: auto; aspect-ratio: 4 / 5; object-fit: cover; object-position: 50% 20%; background: var(--paper-deep); }
 .about__content { display: grid; gap: 3rem; min-width: 0; }
 .about__statement { position: relative; align-self: start; padding: 1.6rem 1.8rem 1.7rem 0; border-top: 1px solid var(--line); }
 .about__quote-mark { display: block; color: var(--coral); font: 4.5rem/.8 var(--display); }
