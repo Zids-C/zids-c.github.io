@@ -1,6 +1,6 @@
 # Osman Goni — Portfolio
 
-A responsive React + Vite portfolio for GitHub Pages, designed in an editorial visual direction with a warm paper palette, forest-green ink, acid-lime accents, an original segmentation-inspired SVG illustration, and lightweight scroll reveals.
+A responsive React + Vite portfolio for GitHub Pages, designed in an editorial visual direction with a warm paper palette, forest-green ink, acid-lime accents, an original U-Net architecture illustration, and lightweight scroll reveals.
 
 ## Local development
 
